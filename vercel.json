@@ -22,7 +22,5 @@
 		 "src": "/(.*)",
 		 "dest": "LEATHERWATCHES/wsgi.py"
 	    }
-	 ],
-     "cleanUrls": true,
-     "trailingSlash": false
+	 ]
 } 
