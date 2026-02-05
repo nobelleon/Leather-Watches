@@ -1,6 +1,6 @@
 {
 	"builds": [{
-	    "src": "LEATHERWATCHES/wsgi.py",
+	    "src": "leatherwatchesapp/templates/index.html",
 	    "use": "@vercel/python",
 	    "config": { "maxLambdaSize": "15mb", "runtime": "python3.9" }
 	}],
