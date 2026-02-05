@@ -20,7 +20,7 @@
         },
 	    {
 		 "src": "/(.*)",
-		 "dest": "leatherwatchesapp/templates/index.html"
+		 "dest": "LEATHERWATCHES/wsgi.py"
 	    }
 	 ]
 } 
